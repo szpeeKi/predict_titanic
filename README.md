@@ -1,7 +1,3 @@
-Aqui está o README atualizado com o link para o seu projeto:
-
----
-
 # Projeto de Análise e Modelagem de Dados do Titanic
 
 ## Descrição do Projeto
